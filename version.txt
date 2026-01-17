@@ -1,0 +1,8 @@
+15.0.0
+https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v15.0.0/DTA_AutoDown_V15.zip
+
+## 🚀 DTA AutoDown V15.0.0
+
+### ✨ Tính năng mới
+- Hệ thống update UI đẹp hơn
+- Nút "Để sau" để bỏ qua update
