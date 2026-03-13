@@ -1,1 +1,2 @@
-22.0.0
+22.1.0
+https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v22.1.0/Setup_DTAAutoDown_v22.1.0.exe
