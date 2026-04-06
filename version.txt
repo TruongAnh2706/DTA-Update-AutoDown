@@ -1,5 +1,4 @@
- 34.0.0
- https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v34.0.0/Setup_DTAAutoDown_v34.0.0.exe
- - Nâng cấp sửa lỗi treo luồng Starting do pipe OS bị tràn.
- - Thêm tính năng đọc tham số delay_seconds.
- ```
+34.0.1
+https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v34.0.1/Setup_DTAAutoDown_v34.0.1.exe
+- Nâng cấp sửa lỗi phiên bản v34.0.1
+- Kiểm tra tính năng Auto Update mới
