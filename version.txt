@@ -1,4 +1,3 @@
-34.0.1
-https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v34.0.1/Setup_DTAAutoDown_v34.0.1.exe
-- Nâng cấp sửa lỗi phiên bản v34.0.1
-- Kiểm tra tính năng Auto Update mới
+35.0.0
+https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v35.0.0/Setup_DTAAutoDown_v35.0.0.exe
+Bản cập nhật 35.0.0
