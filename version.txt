@@ -1,3 +1,3 @@
-35.4.7
-https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v35.4.7/Setup_DTAAutoDown_v35.4.7.exe
-Bản cập nhật 35.4.7
+35.4.8
+https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v35.4.8/Setup_DTAAutoDown_v35.4.8.exe
+Bản cập nhật 35.4.8
