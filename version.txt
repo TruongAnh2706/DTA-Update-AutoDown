@@ -1,6 +1,3 @@
 35.5.17
 https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v35.5.17/Setup_DTAAutoDown_v35.5.17.exe
-- Sửa triệt để lỗi ngắt kết nối âm thanh Bilibili (DASH audio 30280 bị CDN ngắt -> chuyển sang audio chuẩn 30232 cực nhanh và 100% ổn định)
-- Tự động bỏ qua cookie YouTube/Google khi tải Bilibili để tránh bị CDN từ chối
-- Chuẩn hóa toàn bộ định dạng link Bilibili (hỗ trợ cả link nhúng player.bilibili.com)
-- Tối ưu quyền Administrator (UAC) cho bộ cài tự động cập nhật
+Bản cập nhật 35.5.17
