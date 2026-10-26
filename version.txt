@@ -1,3 +1,6 @@
-35.5.17
-https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v35.5.17/Setup_DTAAutoDown_v35.5.17.exe
-Bản cập nhật 35.5.17
+35.5.18
+https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v35.5.18/Setup_DTAAutoDown_v35.5.18.exe
+- Khắc phục triệt để lỗi xung đột thư viện Python DLL (python311.dll vs python310.dll)
+- Bộ cài đặt Inno Setup mới tích hợp cơ chế tự động dọn sạch 100% DLL cũ và file chạy cũ trước khi cài đè
+- Bổ sung cơ chế cưỡng chế đóng ứng dụng cũ và WMI process wait loop để đảm bảo cài đặt hoàn tất tuyệt đối trước khi mở app
+- Sửa dứt điểm lỗi tải và ghép âm thanh Bilibili (DASH Audio 30232 siêu tốc)
