@@ -1,3 +1,7 @@
-35.5.15
-https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v35.5.15/Setup_DTAAutoDown_v35.5.15.exe
-Bản cập nhật 35.5.15
+35.5.16
+https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v35.5.16/Setup_DTAAutoDown_v35.5.16.exe
+- Sửa triệt để lỗi không tải được link Bilibili dạng player nhúng (player.bilibili.com).
+- Tự động chuẩn hóa link rút gọn b23.tv và link di động m.bilibili.com thành link chuẩn.
+- Bóc tách đầy đủ luồng DASH video + audio chất lượng cao kịch trần.
+- Tự động chuyển đổi codec VP9/AV1 sang H.264 tương thích Adobe Premiere.
+- Nâng cấp cơ chế cấp quyền Administrator (UAC runas) cho trình cài đặt ngầm.
