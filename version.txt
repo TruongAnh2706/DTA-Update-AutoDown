@@ -1,3 +1,8 @@
-35.5.18
-https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v35.5.18/Setup_DTAAutoDown_v35.5.18.exe
-Bản cập nhật 35.5.18
+36.0.0
+https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v36.0.0/Setup_DTAAutoDown_v36.0.0.exe
+🎉 DTA AUTODOWN v36.0.0 - BẢN NÂNG CẤP LỚN TOÀN DIỆN (MAJOR UPGRADE):
+- Khắc phục triệt để lỗi xung đột nạp DLL (python310.dll / python311.dll) trên 100% mọi dòng máy tính Windows
+- Bộ cài đặt Inno Setup thông minh với cơ chế Safe-Rename: Nếu file exe cũ đang bị khóa, tự động đổi tên sang .old và ghi đè file exe mới ngay lập tức
+- Tự động diệt tiến trình ngầm và dọn sạch 100% tệp rác thư viện cũ trước khi cài đè
+- Lột xác giao diện High-Tech Neo-Dark với hệ màu nhận diện thương hiệu DTA Studio: Neon Blue (#00FFFF) & Neon Red (#FF0000)
+- Tối ưu bộ động cơ tải Bilibili, YouTube, TikTok, Facebook mượt mà và ổn định tuyệt đối
