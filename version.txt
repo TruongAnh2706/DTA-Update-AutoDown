@@ -1,3 +1,6 @@
-36.0.0
-https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v36.0.0/Setup_DTAAutoDown_v36.0.0.exe
-Bản cập nhật 36.0.0
+36.0.1
+https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v36.0.1/Setup_DTAAutoDown_v36.0.1.exe
+- Khắc phục triệt để lỗi cài đặt lặp lại (Runtime error at 1:900 Internal error expand app constant)
+- Khôi phục hệ thống đóng gói gốc ổn định 100%
+- Giao diện Dark Mode chuẩn DTA Studio
+- Động cơ tải Bilibili, YouTube, TikTok ổn định
