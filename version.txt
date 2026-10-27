@@ -1,3 +1,2 @@
-36.0.1
-https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v36.0.1/Setup_DTAAutoDown_v36.0.1.exe
-Bản cập nhật 36.0.1
+36.0.2
+v36.0.2: Khôi phục bảng màu gốc Indigo dịu mắt, dễ nhìn chữ
