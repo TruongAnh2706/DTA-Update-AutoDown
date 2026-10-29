@@ -1,2 +1,4 @@
-36.0.2
-v36.0.2: Khôi phục bảng màu gốc Indigo dịu mắt, dễ nhìn chữ
+36.0.3
+https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v36.0.3/Setup_DTAAutoDown_v36.0.3.exe
+- C?i thi?n popup C?i ??t: b? c?c, dropdown v? nh?n ti?ng Vi?t.
+- C?p nh?t n?i dung splash kh?i ??ng r? r?ng, t? nhi?n h?n.
