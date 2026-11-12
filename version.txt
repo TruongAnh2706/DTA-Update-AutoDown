@@ -1,3 +1,3 @@
 36.0.6
 https://github.com/TruongAnh2706/DTA-Update-AutoDown/releases/download/v36.0.6/Setup_DTAAutoDown_v36.0.6.exe
-Bản cập nhật 36.0.6
+Bản cập nhật 36.0.6: Tối ưu quét kênh/video lẻ YouTube siêu tốc, nâng cấp hệ thống Cookies & tự động vượt chặn Anti-bot.
